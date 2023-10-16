@@ -25,7 +25,7 @@ TI.22.A2
 
 ### Usecase, Activity Diagram dan Sequence
 #### Usecase
-![usecase_app_batik](https://github.com/Febriyaninurhida123/RPL_TGS2/assets/90132092/ff287b9e-4191-4f9d-a1a2-24b988894553)
+![Diagram Tanpa Judul-Halaman-1 drawio](https://github.com/Febriyaninurhida123/RPL_TGS2/assets/90132092/bf47a52c-8d7f-42cc-853a-a2a894dc4ca9)
 
 #### Activity Diagram
 ![diagram_activity2_app_batik](https://github.com/Febriyaninurhida123/RPL_TGS2/assets/90132092/b98eedd7-fb4a-45cd-b87d-c90c0480caf9)
